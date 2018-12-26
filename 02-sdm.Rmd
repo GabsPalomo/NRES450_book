@@ -2,6 +2,12 @@
 
 ## Learning objectives
 At the end of chapter 2, the students should be able to:
+
+General Objectives:
+1. Enumerate available management actions and assemble alternative strategies.
+2. Make tradeoffs between competing objectives to select a preferred management strategy in an SDM framework.
+
+Chapter objectives: 
 1. Identify the main decision to tackle in a conservation oriented problem.
 2. Identify the problem, objectives, actions, consequences, and tradeoffs in a conservation oriented problem. 
 3. Differentiate between fundamental and means objective in a conservation oriented problem. 
