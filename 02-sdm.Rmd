@@ -1,6 +1,6 @@
 # Making decisions {#chap:sdm}
 
-## Learning objectives
+**Learning objectives**
 At the end of chapter 2, the students should be able to:
 
 General Objectives:

@@ -1,6 +1,6 @@
 # The fundamental law of population dynamics {#chap:fundamental}
 
-## Learning objectives
+**Learning objectives**
 At the end of chapter 1, the students should be able to: 
 
 General objective: 
