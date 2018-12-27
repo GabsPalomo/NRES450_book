@@ -275,6 +275,22 @@ There’s a good cheat sheet for sample means and variances at \url{''http://www
 
 ## Exercises {-}
 
+A. Comprehension
+
+1. When estimating population parameters like population size $N$, why do we resort to sampling procedures? 
+2. Why do we say that the sampling error can never be zero? Provide an example. 
+3. How do we estimate the precision of a parameter? 
+4. How do we estimate the accuracy of a parameter?
+5. What are the main differences between simple random sampling and stratified sampling?
+
+B. Analysis: 
+1. Explain the relationship between the size of the confidence intervals and precision. Why are smaller confidence intervals better?. Provide an example. 
+2. Explain the importance of estimating the population size in wildlife management and population dynamics?
+3. Think of an example in ecology where you would estimate the population size using counts with replacement and without replacement. 
+4. Explain why ecologists might resort to doing stratified sampling to estimate population size $N$. Provide an example. 
+
+3. Problem solving: 
+
 ```{r caribouExample}
 options(knitr.kable.NA = '')
 caribou <- readr::read_delim(
