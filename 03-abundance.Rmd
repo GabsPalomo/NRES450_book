@@ -20,14 +20,14 @@ The fundamental metric of population dynamics is the abundance of the population
 
 Why bother to estimate the size of the population? Why not simply count every individual animal, and obtain a *census* of the population? This was standard practice for large mammals in North America until the middle of the 20^th^ century, and even later in Africa. With enough well trained personnel, it is indeed possible to obtain high levels of complete counts for populations, particularly in open areas like the African savannah. **The primary reason for abandoning complete counts is cost.** The time required to survey every piece of a landscape or region is tremendous, and time is money. In addition, for many species in many landscapes, the assumption of complete detectability, that every individual in a sample unit is counted, is not met. In that case, the attempt to census the population leads to an abundance that is biased (more on this later). We can both reduce costs and deal with bias of incomplete detectability by moving to statistical sampling procedures for estimating the total abundance of a population in a given area. 
 
-### Census example
+### Elephant aerial counts
 Sometimes, researchers relly on total counts, or census, for certain species to keep track of population trends or estimate other demographic parameters. For example, in Tanzania, in the Serengeti ecosystem, researchers use "total" counts where surveyors use aircrafts equipped with Global Positioning System (GPS) units and cameras to fly over the entire elephant range and count the number of individuals they see. Because they are large animals these total counts make sense. They assume perfect detectability but even with such large species this is unrealistic because sometimes individuals clump together and it becomes difficult to differentiate individuals. 
 
 ```{r elephant, fig.show='hold',fig.cap="View of a heard of elephants in the Seregenti ecosystem in Tanzania from an aerial count in Kenia. Photo by Peter Chira/ AWF."}
 knitr::include_graphics("images/Kenya-census-elephants-aerial-view.jpg")
 ```
 
-The steps required to estimate any parameter in a population, like the total abundance, follows this general scheme
+The steps required to estimate any parameter in a population, like the total abundance, follows this general scheme:
 
 ```{r scheme, fig.show='hold',fig.cap="The general steps required to estimate parameters and their precision using a simple random sampling approach."}
 knitr::include_graphics("images/Sampling_Design.png")
